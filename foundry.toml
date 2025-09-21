@@ -5,5 +5,8 @@ libs = ["dependencies"]
 
 [dependencies]
 forge-std = "1.10.0"
+eth-infinitism-account-abstraction = "0.8.0"
+"@openzeppelin-contracts" = "5.4.0"
+openzeppelin-foundry-upgrades = "0.4.0"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

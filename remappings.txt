@@ -1,1 +1,4 @@
+@openzeppelin-contracts-5.4.0/=dependencies/@openzeppelin-contracts-5.4.0/
+eth-infinitism-account-abstraction-0.8.0/=dependencies/eth-infinitism-account-abstraction-0.8.0/
 forge-std-1.10.0/=dependencies/forge-std-1.10.0/
+openzeppelin-foundry-upgrades-0.4.0/=dependencies/openzeppelin-foundry-upgrades-0.4.0/
